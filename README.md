@@ -1,4 +1,4 @@
-# Joystick-and-servo-motor
+# Controlling servo motor with joystick
 This code you can control servo with a joystick with a help of arduino uno
 ->#include <Servo.h>
 
